@@ -42,10 +42,30 @@ load_profiles
 
 # Menu function
 function menu() {
-    clear
-#create menu function
-    echo "Enter your choice:"
-    read choice
+clear
+echo "============================================="
+echo " Overclocking and Performance Optimization "
+echo "============================================="
+echo "1. Display GPU Information"
+echo "2. Display CPU Information"
+echo "3. Overclock GPU"
+echo "4. Overclock CPU (Advanced)"
+echo "5. Overclock Memory"
+echo "6. Reset GPU Settings"
+echo "7. Adjust GPU Power Limit"
+echo "8. Toggle GPU Persistence Mode"
+echo "9. Set CPU Governor"
+echo "10. Toggle Hugepages"
+echo "11. Adjust GPU Application Clocks"
+echo "12. Set Swappiness"
+echo "13. Optimize Disk Cache Pressure"
+echo "14. Configure Transparent Huge Pages (THP)"
+echo "15. Optimize Disk Readahead"
+echo "16. Set I/O Scheduler"
+echo "17. Exit"
+echo
+echo "Enter your choice:"
+read choice
 }
 
 # Functions for each menu option
