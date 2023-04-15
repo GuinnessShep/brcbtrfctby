@@ -43,19 +43,7 @@ load_profiles
 # Menu function
 function menu() {
     clear
-    echo "Performance Tuning Menu"
-    echo "======================="
-    echo "1. Display GPU information"
-    echo "2. Display CPU information"
-    echo "3. Overclock GPU"
-    echo "4. Overclock CPU"
-    echo "5. Reset GPU settings"
-    echo "6. Adjust GPU power limit"
-    echo "7. Enable/disable GPU persistence mode"
-    echo "8. Set CPU governor"
-    echo "9. Enable/disable hugepages"
-    echo "10. Set I/O scheduler"
-    echo "11. Exit"
+#create menu function
     echo "Enter your choice:"
     read choice
 }
