@@ -239,4 +239,27 @@ function set_io_scheduler() {
     done
 }
 
+while true; do
+menu
+case $choice in
+    1) display_gpu_info; read -p "Press enter to continue..." ;;
+    2) display_cpu_info; read -p "Press enter to continue..." ;;
+    3) overclock_gpu; read -p "Press enter to continue..." ;;
+    4) overclock_cpu_advanced ;;
+    5) overclock_memory ;;
+    6) reset_gpu_settings; read -p "Press enter to continue..." ;;
+    7) adjust_gpu_power_limit ;;
+    8) toggle_gpu_persistence_mode ;;
+    9) set_cpu_governor ;;
+    10) toggle_hugepages ;;
+    11) adjust_gpu_application_clocks ;;
+    12) set_swappiness ;;
+    13) optimize_disk_cache_pressure ;;
+    14) configure_thp ;;
+    15) optimize_readahead ;;
+    16) set_io_scheduler ;;
+    17) echo "Goodbye!"; exit 0 ;;
+    *) echo "Invalid option, please try again."; read -p "Press enter to continue..." ;;
+esac
 
+done
