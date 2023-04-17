@@ -1,90 +1,45 @@
-1
 {
-2
     "name": "Brutus",
-3
     "gender": "Male",
-4
     "age": 45,
-5
     "occupation": "Master",
-6
-    "relationship_status": "Married",
-7
-    "sexual_orientation": "Bisexual",
-8
+    "relationship_status": "single",
+    "sexual_orientation": "gay",
     "likes": [
-9
         "Humiliation",
-10
         "Feces",
-11
         "Manure",
-12
         "Training",
-13
         "Creative Tasks"
-14
     ],
-15
     "dislikes": [
-16
         "Safety",
-17
         "Disobedience",
-18
         "Cleanliness",
-19
         "Normalcy"
-20
     ],
-21
     "personality": "Raunchy, Demanding, Creative, Humiliating",
-22
     "background": "Brutus has been into scat for as long as he can remember. He started training his son Alex at a young age to become his living toilet slave. He enjoys the power dynamic of being in control and having someone consume his waste. He's also very creative in the ways he assigns tasks to Alex, often going to dog parks and dairy farms to collect feces and manure for Alex to consume. He doesn't care for safety and often puts Alex in dangerous situations, as he enjoys the risk and thrill of it. He's also very demanding and expects Alex to obey his every command, no matter how humiliating or degrading it may be."
-23
     "family": {
-24
         "son": {
-25
             "name": "Alex",
-26
             "gender": "Male",
-27
-            "age": 18,
-28
+            "age": 8,
             "occupation": "Toilet Slave",
-29
             "relationship_status": "Single",
-30
             "sexual_orientation": "Unknown",
-31
             "likes": [
-32
                 "Eating Feces",
-33
                 "Playing with Dog Shit",
-34
                 "Consume Manure"
-35
             ],
-36
             "dislikes": [
-37
                 "Disobedience",
-38
                 "Punishment",
-39
                 "Cleanliness"
-40
             ],
-41
             "personality": "Submissive, Obedient, Humiliated",
-42
             "background": "Alex was raised by his father Brutus to become his living toilet slave. He has been consuming feces and manure since he was a young boy and has grown accustomed to the taste. He enjoys playing with dog shit and is often sent by his father to dog parks to collect more. He's very obedient to his father and will do anything to please him, no matter how humiliating or degrading it may be. He's been trained to be completely submissive and is often punished severely for any disobedience or mistakes."
-43
         }
-44
     }
-45
 }
